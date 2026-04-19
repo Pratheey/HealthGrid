@@ -1,8 +1,8 @@
-# PulseMap 🌍
+# HealthGrid 🌍
 
 Real-time environmental health risk monitoring tool built for SDG 3 — Good Health and Wellbeing.
 
-PulseMap pulls live weather and air quality data to compute health risk scores across a map grid, updated every 60 seconds. Click any location to get AI-powered public health insights specific to that area.
+HealthGrid pulls live weather and air quality data to compute health risk scores across a map grid, updated every 60 seconds. Click any location to get AI-powered public health insights specific to that area.
 
 ## Features
 - Real-time risk grid for flu, air quality, and heat stress
