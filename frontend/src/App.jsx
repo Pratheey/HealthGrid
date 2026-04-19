@@ -3,7 +3,7 @@ import mapboxgl from "mapbox-gl";
 import axios from "axios";
 import "mapbox-gl/dist/mapbox-gl.css";
 
-mapboxgl.accessToken = "MAPBOX_ACCESS_TOKEN"; // Replace with your Mapbox token
+mapboxgl.accessToken = "pk.eyJ1IjoicHJhdGhlZWtkYW5hbSIsImEiOiJjbW80bGJlMzQxZjJvMm9vdHoyZ3VuZXl3In0.YciOenOj0ONKvGPM9Jg5mw"; 
 
 const BASE_URL = "http://127.0.0.1:8000";
 const GRID_COLS = 8;
