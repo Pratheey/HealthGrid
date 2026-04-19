@@ -1,4 +1,4 @@
-# HealthGrid 🌍
+# HealthGrid 
 
 Real-time environmental health risk monitoring tool built for SDG 3 — Good Health and Wellbeing.
 
